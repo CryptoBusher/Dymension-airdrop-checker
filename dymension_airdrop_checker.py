@@ -58,6 +58,6 @@ if __name__ == "__main__":
         except IndexError:
             check_airdrop(wallet)
         except Exception as e:
-            print(f'Failed to check wallet {wallet}, reason: {e}')
+            logger.error(f'Failed to check wallet {wallet}, reason: {e}')
         finally:
             fetch_sleep()
