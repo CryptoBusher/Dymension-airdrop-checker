@@ -2,7 +2,7 @@
 
 Сайт проекта [тык](https://genesis.dymension.xyz/).
 
-Связь с создателем: https://t.me/CrytoBusher <br>
+Связь с создателем: https://t.me/CryptoBusher <br>
 Если ты больше по Твиттеру: https://twitter.com/CryptoBusher <br>
 
 Залетай сюда, чтоб не пропускать дропы подобных скриптов: https://t.me/CryptoKiddiesClub <br>
